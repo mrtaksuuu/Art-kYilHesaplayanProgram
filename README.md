@@ -1,2 +1,2 @@
 # Art-kYilHesaplayanProgram
-[www.patika.dev[https://app.patika.dev/]
+[www.patika.dev](https://app.patika.dev/)
